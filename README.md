@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to Shreedatri's Profile</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shreedatri03&label=Profile%20views&color=0e75b6&style=flat" alt="shreedatri03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreedatri03&label=Profile%20views&color=0e75b6&style=flat" alt="shreedatri03" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/shreedatri-banerjee-b97a52204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreedatri-banerjee-b97a52204" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.shreedatri.___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shreedatri.___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shreedatri_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreedatri_b" height="30" width="40" /></a>
